@@ -1,0 +1,286 @@
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\appsettings.Development.json
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\appsettings.json
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\PersonalFinanceTracker.staticwebassets.endpoints.json
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\PersonalFinanceTracker.exe
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\PersonalFinanceTracker.deps.json
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\PersonalFinanceTracker.runtimeconfig.json
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\PersonalFinanceTracker.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\PersonalFinanceTracker.pdb
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Azure.Core.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Azure.Identity.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Humanizer.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.CodeDom.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.Memory.Data.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\PersonalFinanceTracker.csproj.AssemblyReference.cache
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\rpswa.dswa.cache.json
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\PersonalFinanceTracker.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\PersonalFinanceTracker.AssemblyInfoInputs.cache
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\PersonalFinanceTracker.AssemblyInfo.cs
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\PersonalFinanceTracker.csproj.CoreCompileInputs.cache
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\PersonalFinanceTracker.MvcApplicationPartsAssemblyInfo.cs
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\PersonalFinanceTracker.MvcApplicationPartsAssemblyInfo.cache
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\rjimswa.dswa.cache.json
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\scopedcss\bundle\PersonalFinanceTracker.styles.css
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\staticwebassets.build.json
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\staticwebassets.development.json
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\Personal.50996CEA.Up2Date
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\PersonalFinanceTracker.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\refint\PersonalFinanceTracker.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\PersonalFinanceTracker.pdb
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\PersonalFinanceTracker.genruntimeconfig.cache
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\ref\PersonalFinanceTracker.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+F:\Development\Web Development\dotnet development\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\appsettings.Development.json
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\appsettings.json
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\PersonalFinanceTracker.staticwebassets.endpoints.json
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\PersonalFinanceTracker.exe
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\PersonalFinanceTracker.deps.json
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\PersonalFinanceTracker.runtimeconfig.json
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\PersonalFinanceTracker.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\PersonalFinanceTracker.pdb
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Azure.Core.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Azure.Identity.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Humanizer.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.CodeDom.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\PersonalFinanceTracker.csproj.AssemblyReference.cache
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\PersonalFinanceTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\PersonalFinanceTracker.AssemblyInfoInputs.cache
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\PersonalFinanceTracker.AssemblyInfo.cs
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\PersonalFinanceTracker.csproj.CoreCompileInputs.cache
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\PersonalFinanceTracker.MvcApplicationPartsAssemblyInfo.cs
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\PersonalFinanceTracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\scopedcss\bundle\PersonalFinanceTracker.styles.css
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\staticwebassets.build.json
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\staticwebassets.development.json
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\Personal.50996CEA.Up2Date
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\PersonalFinanceTracker.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\refint\PersonalFinanceTracker.dll
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\PersonalFinanceTracker.pdb
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\PersonalFinanceTracker.genruntimeconfig.cache
+C:\Mahin\TSE Learning\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net8.0\ref\PersonalFinanceTracker.dll
