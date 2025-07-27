@@ -66,6 +66,11 @@ namespace PersonalFinanceTracker.Controllers
                     user.Balance += createdTransaction.Amount;
                 }
 
+                if (user.Balance < 0) {
+                    payment.Status = PaymentStatus.Failed;
+                    throw new Exception("User don't have enough balance!");
+                }
+
                 payment.Status = user.Balance >= 0 ? PaymentStatus.Completed : PaymentStatus.Failed;
 
                 await _context.SaveChangesAsync();
