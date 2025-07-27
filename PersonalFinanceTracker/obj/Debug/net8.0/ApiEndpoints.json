@@ -205,6 +205,22 @@
   },
   {
     "ContainingType": "PersonalFinanceTracker.Controllers.UserController",
+    "Method": "GenerateTransactionInvoicePdf",
+    "RelativePath": "api/v1/User/{userId}/generateInvoice",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PersonalFinanceTracker.Controllers.UserController",
     "Method": "CreateUser",
     "RelativePath": "api/v1/User/create",
     "HttpMethod": "POST",
